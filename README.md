@@ -6,7 +6,7 @@
 <p align="center">
   <!-- Twitter Badge -->
   <a href="https://x.com/sovanacloud">
-    <img src="https://img.shields.io/twitter/follow/Sovana_Agent?style=social" alt="Twitter Follow"/>
+    <img src="https://img.shields.io/twitter/follow/sovanacloud?style=social" alt="Twitter Follow"/>
   </a>
 </p>
 
