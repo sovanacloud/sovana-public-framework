@@ -5,8 +5,8 @@
 
 <p align="center">
   <!-- Twitter Badge -->
-  <a href="https://x.com/sovanacloud">
-    <img src="https://img.shields.io/twitter/follow/sovanacloud?style=social" alt="Twitter Follow"/>
+  <a href="https://x.com/sovhaframework">
+    <img src="https://img.shields.io/twitter/follow/sovhaframework?style=social" alt="Twitter Follow"/>
   </a>
 </p>
 
